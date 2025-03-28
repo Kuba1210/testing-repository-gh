@@ -1,3 +1,3 @@
 # testing-repository-gh
 
-testowy tekst mordzia essa 
+testowy tekst mordzia essa! 
